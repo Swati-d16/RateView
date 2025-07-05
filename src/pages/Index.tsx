@@ -21,7 +21,7 @@ const Index = () => {
   const [isLoading, setIsLoading] = useState(false);
   const [isRegeneratingHeadline, setIsRegeneratingHeadline] = useState(false);
 
-  const API_BASE_URL = 'http://localhost:3001';
+  const API_BASE_URL = 'https://rateview-backend.onrender.com';
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
