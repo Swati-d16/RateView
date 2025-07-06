@@ -3,6 +3,12 @@
 
 A full-stack web application that simulates how small businesses might view their SEO content and Google Business data. This project demonstrates core functionality similar to GrowthProAI's business intelligence features.
 
+## Project Preview
+### link - https://rate-view.vercel.app/
+![Screenshot 2025-07-06 015318](https://github.com/user-attachments/assets/1d83b4aa-d09c-401e-91d8-1809d16522d3)
+
+![Screenshot 2025-07-06 015352](https://github.com/user-attachments/assets/1ce0b74d-3d80-4d14-a2e4-0ea424b6d05b)
+
 ## 🌟 Features
 
 ### Frontend (React + TypeScript + Tailwind CSS)
@@ -83,19 +89,6 @@ A full-stack web application that simulates how small businesses might view thei
    - Click "Regenerate" to get a fresh SEO headline
    - Perfect for A/B testing different marketing messages
 
-## 🏗️ Project Structure
-
-```
-├── src/                    # Frontend source code
-│   ├── components/         # Reusable UI components
-│   ├── pages/             # Main application pages
-│   └── hooks/             # Custom React hooks
-├── backend/               # Backend API server
-│   ├── server.js          # Express server with all endpoints
-│   ├── package.json       # Backend dependencies
-│   └── README.md          # Backend documentation
-└── README.md              # This file
-```
 
 ## 🛠️ API Endpoints
 
@@ -129,20 +122,12 @@ Generate a new SEO headline.
 }
 ```
 
-## 🎨 Design Features
-
-- **Modern Gradient Backgrounds** - Professional blue-to-indigo gradients
-- **Card-based Layout** - Clean, organized information display
-- **Responsive Grid System** - Adapts beautifully to all screen sizes
-- **Interactive Elements** - Hover effects and smooth transitions
-- **Professional Color Scheme** - Business-friendly blues, greens, and yellows
-- **Typography Hierarchy** - Clear information structure
 
 ## 🔧 Technologies Used
 
 ### Frontend
 - **React 18** - Modern React with hooks and functional components
-- **TypeScript** - Type-safe development
+- **JavaScript** - Dynamic, loosely-typed scripting
 - **Tailwind CSS** - Utility-first CSS framework
 - **shadcn/ui** - High-quality UI component library
 - **Axios** - HTTP client for API requests
@@ -161,14 +146,12 @@ The frontend can be deployed to any static hosting service:
 - Vercel (recommended)
 - Netlify
 - GitHub Pages
-- AWS S3 + CloudFront
 
 ### Backend Deployment
 The backend can be deployed to:
 - Heroku
+- Render
 - Railway
-- DigitalOcean App Platform
-- AWS Elastic Beanstalk
 
 ## 🤝 Contributing
 
@@ -178,9 +161,6 @@ The backend can be deployed to:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🎯 Future Enhancements
 
@@ -194,4 +174,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ for local businesses everywhere
